@@ -1,3 +1,5 @@
+// Schema for Post data
+
 const { model, Schema } = require('mongoose');
 
 const postSchema = new Schema({

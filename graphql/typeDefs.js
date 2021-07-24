@@ -1,3 +1,5 @@
+// Type Definitions used for graphql operations
+
 const { gql } = require('apollo-server');
 
 module.exports = gql`

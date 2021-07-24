@@ -1,3 +1,5 @@
+// export all resolvers
+
 const postsResolvers = require('./posts');
 const usersResolvers = require('./users');
 const commentssResolvers = require('./comments');

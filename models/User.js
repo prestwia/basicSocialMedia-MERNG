@@ -1,3 +1,4 @@
+// Schema for user data
 const { model, Schema } = require('mongoose');
 
 const userSchema = new Schema({
